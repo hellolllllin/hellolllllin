@@ -4,8 +4,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=hellolllllin&show_icons=true&theme=dracula)
 
-![](https://github-readme-stats.vercel.app/api?username=hellolllllin&show_icons=true&theme=dracula)
-
 ![](https://github-profile-trophy.vercel.app/?username=hellolllllin&theme=onedark)
 
 ![](https://activity-graph.herokuapp.com/graph?username=hellolllllin&theme=xcode)
